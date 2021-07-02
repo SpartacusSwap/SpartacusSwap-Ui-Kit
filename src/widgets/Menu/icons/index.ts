@@ -25,4 +25,3 @@ export { default as ReferralsIcon } from "./Referrals";
 export { default as FeaturesIcon } from "./Features";
 export { default as ChartIcon } from "./Chart";
 export { default as ListIcon } from "./List";
-export { default as LayerIcon } from "./Layer";
